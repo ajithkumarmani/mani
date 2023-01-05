@@ -1,5 +1,5 @@
 
 m="mani"
-print(ragu)
+print("ragu")
 
 
