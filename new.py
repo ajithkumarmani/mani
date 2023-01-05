@@ -1,6 +1,6 @@
 
-a=100
-b=10
+m=100
+n=10
 e=200
-print(a+b+e)
+print(m+n+e)
 
